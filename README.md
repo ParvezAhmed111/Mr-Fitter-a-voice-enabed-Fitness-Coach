@@ -5,7 +5,7 @@ Mr Fitter is a voice enabled, virtual, motivational fitness coach which will gui
 
 Make sure to enter the same name of modules while installing as given above.
 
-```bash
+```
 pip install <library_name>
 ```
 Make sure that both of the python files and the WitFacebook folder are in the same directory.
