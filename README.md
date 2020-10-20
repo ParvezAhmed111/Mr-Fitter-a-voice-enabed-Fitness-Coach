@@ -3,7 +3,7 @@ Submission for Facebook AI hackathon 2020
 Mr Fitter is a voice enabled, virtual, motivational fitness coach which will guide you towards achieving your fitness goals, and also get you healthier along the way. Generate the Wit token on Wit.ai Install all the required libraries, which are: dearpygui, wit, SpeechRecognition, pandas
 
 Make sure to enter the same name of modules while installing as given above.
-pip install <library_name>
+'''pip install <library_name>'''
 Make sure that both of the python files and the WitFacebook folder are in the same directory.
 
 To run the code, execute main.py.
