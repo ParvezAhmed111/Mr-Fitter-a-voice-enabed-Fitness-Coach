@@ -24,3 +24,5 @@ There's a limited set of muscles and exercises in the database. Those are:
 pullup,chinup,bicycle,pushup,leg raises,calve raises,crunches,dips,diamond pushup,supermans,side lunges,plank,squats,bench dips,lunges,decline pushup,scissor,donkey kick,jump squats,incline pushup,mountain climbers, pike pushup, inverted rows. Arms, legs, abs, chest, back, shoulder.
 ```
 There could be instances where the GUI crashes, just restart the application and continue where you left.
+
+Link for Youtube tutorial : https://youtu.be/Q-43isUNn5Y
